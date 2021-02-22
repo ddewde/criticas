@@ -1,0 +1,22 @@
+
+body {
+    top: 0px;
+    left: 0px;
+    color: #333;
+    
+}
+
+#autenticacion {
+    background-image: url(../img/minecraft.jpg);
+    opacity: 1;
+    
+    height: 100%;
+    color: white;
+    
+    
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
